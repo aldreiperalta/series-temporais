@@ -1,0 +1,11 @@
+Escreva um relatório (nos moldes que foram apresentados em aula) que contenha os seguintes itens (cada item vale 1 ponto):
+Explique, com suas palavras, o que é tendência, sazonalidade e componente aleatório.
+Selecione um série temporal nova (pode ser sem sazonalidade) e plote seu gráfico.
+Explique do que se trata a série, como são representadas suas amostras no tempo e qual a unidade em que os valores devem ser lidos.
+Indique onde a série foi obtida e anexe ao relatório também o arquivo com os dados (de preferência em formato csv ou txt).
+Explique o comportamento da série, explicitando seus componentes.
+Separe os dados em conjunto para modelagem e conjunto para teste.
+Faça o gráfico de autocorrelação dos dados de modelagem. Faça ainda o teste de Dickey-Fuller Aumentado. Diga se a série é ou não estacionária e justifique.
+Ajuste três modelos determinísticos (usando apenas a visualização) para os dados de modelagem.
+Calcule resíduo e erro. Determine qual dos modelos é o melhor e explique o motivo.
+Faça uma previsão utilizando o melhor modelo. Comente essa previsão.

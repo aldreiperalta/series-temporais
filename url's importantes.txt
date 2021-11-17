@@ -1,0 +1,30 @@
+url
+> video
+https://www.youtube.com/playlist?list=PLehIIcwcVfhNTs8HIUM0Cz1aldOHntr0k
+
+> install pandas
+https://youtu.be/JB0kIqT1BEk
+(comandos -m pip install pandas
+-> py -m pip --version
+-> py -m pip install pandas
+->py -m pip install --upgrade pip
+->py -m pip version)
+
+$ para biblioteca 
+> py -m pip install matplotlib
+
+---------------------------------
+import pandas as pd
+
+df = pd read_read_csv('datasets_Ibovespa_points_1994_2020.csv')
+df.head()
+-------------------------
+tipo de erro 
+TypeError("no numeric data to plot")
+erro: series.plot()
+[possivel solução 
+df=df.astype(float)
+
+banco de dados
+https://data.austintexas.gov/Utilities-and-City-Services/Solar-On-City-Facilities/3kyh-ggqg
+
